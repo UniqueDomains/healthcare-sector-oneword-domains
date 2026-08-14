@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| room.management  | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                               |
-| dna.hospital     | available | $57.99      | $57.99        | high           | medium | 3      | namesilo                                                  |
-| room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| dna.surgery      | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo                                                  |
-| cure.hospital    | available | $57.99      | $57.99        | high           | low    | 4      | namesilo                                                  |
-| room.me          | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                               |
-| eye.hospital     | premium   | $500        | —             | medium         | low    | 3      | name.com                                                  |
-| cure.surgery     | available | $67.49      | $71.99        | high           | low    | 4      | name.com                                                  |
-| dna.doctor       | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC                                    |
-| fit.healthcare   | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo                                                  |
-| food.hospital    | available | $57.99      | $57.99        | high           | medium | 4      | namesilo                                                  |
-| dna.health       | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| care.inc         | premium   | $2,061.50   | $2,660        | medium         | low    | 4      | namesilo                                                  |
-| room.academy     | available | $21.99      | —             | high           | low    | 4      | name.com                                                  |
-| eye.glass        | resell    | —           | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| care.surgery     | premium   | $520        | $520          | high           | low    | 4      | namecheap                                                 |
-| room.accountants | available | $43.99      | —             | high           | low    | 4      | name.com                                                  |
-| eye.health       | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC                                          |
-| cure.healthcare  | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com                                                  |
-| room.actor       | available | $19.99      | —             | high           | low    | 4      | name.com                                                  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| care.ryukyu     | available | $22.98    | —             | medium         | medium | 4      | namecheap                |
+| food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| home.bio        | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
+| room.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
+| food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| room.surgery    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                 |
+| room.healthcare | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
+| food.rodeo      | resell    | —         | —             | high           | medium | 4      | Porkbun                  |
+| genes.press     | premium   | $937.50   | —             | medium         | low    | 5      | name.com                 |
+| room.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
+| food.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| genes.sbs       | premium   | $154.70   | $309.40       | medium         | low    | 5      | namecheap                |
+| shot.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
+| food.solutions  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| heart.you       | premium   | $236,900  | —             | high           | low    | 5      | Dynadot, LLC             |
+| shot.healthcare | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
+| food.taxi       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC         |
+| homes.clinic    | premium   | $250      | —             | high           | low    | 5      | name.com                 |
+| shot.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
+| home.directory  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
