@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| cure.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
-| eye.health      | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC         |
-| care.surgery    | premium   | $520      | $520          | high           | low    | 4      | namecheap                |
-| food.hospital   | available | $57.99    | $57.99        | high           | medium | 4      | namesilo                 |
-| fit.care        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
-| cure.healthcare | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com                 |
-| room.academy    | available | $21.99    | —             | high           | low    | 4      | name.com                 |
-| fit.today       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.          |
-| cure.shop       | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| room.care       | available | $29.99    | —             | high           | low    | 4      | name.com                 |
-| care.health     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC         |
-| food.healthcare | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                |
-| room.degree     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
-| cure.health     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC         |
-| food.surgery    | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                |
-| room.dental     | available | $59.98    | —             | high           | low    | 4      | namecheap                |
-| food.doctor     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10        |
+| care.ryukyu     | available | $22.98    | —             | medium         | medium | 4      | namecheap                |
+| food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
 | home.bio        | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| room.dentist    | available | $65.99    | $65.99        | high           | low    | 4      | namesilo                 |
-| food.health     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.          |
+| room.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
+| food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| room.surgery    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                 |
+| room.healthcare | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
+| food.rodeo      | resell    | —         | —             | high           | medium | 4      | Porkbun                  |
+| homes.clinic    | premium   | $250      | —             | high           | low    | 5      | name.com                 |
+| room.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
+| food.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| homes.surgery   | premium   | $82.50    | —             | high           | low    | 5      | name.com                 |
+| unit.ryukyu     | available | $22.98    | —             | high           | low    | 4      | namecheap                |
+| food.solutions  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| nurses.boston   | premium   | $242      | $21.24        | medium         | low    | 6      | namesilo                 |
+| genes.hospital  | available | $71.98    | —             | medium         | low    | 5      | namecheap                |
+| food.taxi       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC         |
+| nurses.buzz     | premium   | $242      | $116          | medium         | low    | 6      | namesilo                 |
+| genes.ltda      | available | $46.98    | —             | medium         | low    | 5      | namecheap                |
+| home.directory  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
