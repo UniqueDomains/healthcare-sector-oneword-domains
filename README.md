@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar              |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| room.management  | resell    | —           | —             | high           | low    | 4      | Porkbun LLC            |
-| dna.hospital     | available | $57.99      | $57.99        | high           | medium | 3      | namesilo               |
-| room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC       |
-| dna.surgery      | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo               |
-| cure.hospital    | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
-| room.me          | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc            |
-| eye.hospital     | premium   | $500        | —             | medium         | low    | 3      | name.com               |
-| cure.surgery     | available | $67.49      | $71.99        | high           | low    | 4      | name.com               |
-| dna.doctor       | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC |
-| care.inc         | premium   | $2,061.50   | $2,660        | medium         | low    | 4      | namesilo               |
-| food.hospital    | available | $57.99      | $57.99        | high           | medium | 4      | namesilo               |
-| dna.health       | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| care.surgery     | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
-| room.academy     | available | $21.99      | —             | high           | low    | 4      | name.com               |
-| eye.health       | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC       |
-| cure.healthcare  | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com               |
-| room.accountants | available | $43.99      | —             | high           | low    | 4      | name.com               |
-| eye.healthcare   | resell    | —           | —             | medium         | high   | 3      | Sav.com, LLC           |
-| food.healthcare  | premium   | $128.70     | $128.70       | high           | medium | 4      | namecheap              |
-| room.airforce    | available | $103.99     | $103.99       | high           | low    | 4      | namesilo               |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC            |
+| dna.hospital    | available | $57.99      | $57.99        | high           | medium | 3      | namesilo               |
+| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC       |
+| dna.surgery     | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo               |
+| aide.doctor     | available | $14.99      | —             | high           | low    | 4      | name.com               |
+| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc            |
+| eye.hospital    | premium   | $500        | —             | medium         | low    | 3      | name.com               |
+| aide.healthcare | available | $88.99      | $88.99        | high           | low    | 4      | namesilo               |
+| primary.me      | resell    | $4,701.28   | —             | high           | low    | 7      | GoDaddy.com, LLC       |
+| fit.healthcare  | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo               |
+| cure.hospital   | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
+| dna.doctor      | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC |
+| care.surgery    | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
+| cure.surgery    | available | $67.49      | $71.99        | high           | low    | 4      | name.com               |
+| dna.health      | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC       |
+| cure.healthcare | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com               |
+| food.hospital   | available | $57.99      | $57.99        | high           | medium | 4      | namesilo               |
+| eye.health      | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC       |
+| food.healthcare | premium   | $128.70     | $128.70       | high           | medium | 4      | namecheap              |
+| room.academy    | available | $21.99      | —             | high           | low    | 4      | name.com               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
