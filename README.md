@@ -16,7 +16,7 @@ This selection covers 145,422 one-word domain names tied to healthcare, spanning
 
 **Public extract:** 1,000 rows · **Live catalog:** 174,124 domains · **Median ask:** $635.64 · **High-demand under $2,500:** 389
 
-**Last updated:** 2026-09-07
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/sector/healthcare`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| food.hospital   | available | $57.99    | $57.99        | high           | medium | 4      | namesilo                 |
-| fit.solar       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43        |
-| cure.shop       | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| oral.doctor     | available | $5.98     | $154.98       | low            | low    | 4      | namecheap                |
-| food.doctor     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10        |
-| food.healthcare | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                |
-| room.care       | available | $29.99    | —             | high           | low    | 4      | name.com                 |
-| food.health     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.          |
-| food.surgery    | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                |
-| room.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
-| food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| home.bio        | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| room.healthcare | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
-| food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| room.clinic     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                 |
-| room.hiv        | available | $184.99   | —             | high           | low    | 4      | name.com                 |
-| room.health     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.          |
-| room.shop       | premium   | $3,125    | —             | high           | low    | 4      | name.com                 |
-| room.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
-| shop.guru       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC            |
+| dna.hospital    | available | $57.99      | $57.99        | high           | medium | 3      | namesilo               |
+| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC       |
+| dna.surgery     | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo               |
+| aide.doctor     | available | $14.99      | —             | high           | low    | 4      | name.com               |
+| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc            |
+| eye.hospital    | premium   | $500        | —             | medium         | low    | 3      | name.com               |
+| aide.healthcare | available | $88.99      | $88.99        | high           | low    | 4      | namesilo               |
+| primary.me      | resell    | $4,701.28   | —             | high           | low    | 7      | GoDaddy.com, LLC       |
+| fit.healthcare  | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo               |
+| cure.hospital   | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
+| dna.doctor      | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC |
+| care.surgery    | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
+| cure.surgery    | available | $67.49      | $71.99        | high           | low    | 4      | name.com               |
+| dna.health      | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC       |
+| cure.healthcare | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com               |
+| food.hospital   | available | $57.99      | $57.99        | high           | medium | 4      | namesilo               |
+| eye.health      | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC       |
+| food.healthcare | premium   | $128.70     | $128.70       | high           | medium | 4      | namecheap              |
+| room.academy    | available | $21.99      | —             | high           | low    | 4      | name.com               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Healthcare Domain Names Across 506 TLDs*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Healthcare Domain Names Across 506 TLDs*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
