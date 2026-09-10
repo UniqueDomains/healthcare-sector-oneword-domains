@@ -1,10 +1,10 @@
-# One-Word Healthcare Domain Names Across 506 TLDs (174,564)
+# One-Word Healthcare Domain Names Across 506 TLDs (175,437)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-174%2C564%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-175%2C437%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,422 one-word domain names tied to healthcare, spanning 506 TLDs with a median ask near $727. Updated daily, it ranges from clinical and care-focused terms to insurance- and wellness-adjacent one-word names across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **174,564 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **175,437 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 174,564 domains · **Median ask:** $634.16 · **High-demand under $2,500:** 389
+**Public extract:** 1,000 rows · **Live catalog:** 175,437 domains · **Median ask:** $631.63 · **High-demand under $2,500:** 383
 
 **Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/healthcare`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| cure.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
-| physical.help   | resell    | $1.99     | $50.99        | medium         | low    | 8      | Dynadot Inc              |
-| care.surgery    | premium   | $520      | $520          | high           | low    | 4      | namecheap                |
-| food.hospital   | available | $57.99    | $57.99        | high           | medium | 4      | namesilo                 |
-| eye.health      | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC         |
-| cure.healthcare | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com                 |
-| room.academy    | available | $21.99    | —             | high           | low    | 4      | name.com                 |
-| fit.care        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
-| cure.shop       | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| room.care       | available | $29.99    | —             | high           | low    | 4      | name.com                 |
-| fit.today       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.          |
-| food.healthcare | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                |
-| room.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
-| care.health     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC         |
-| food.surgery    | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                |
-| room.horse      | available | $41.98    | —             | high           | low    | 4      | namecheap                |
-| cure.health     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC         |
-| home.bio        | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| room.institute  | available | $9.99     | —             | high           | low    | 4      | name.com                 |
-| food.doctor     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| care.ryukyu      | available | $22.98    | —             | medium         | medium | 4      | namecheap        |
+| food.media       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| homes.surgery    | premium   | $82.50    | —             | high           | low    | 5      | name.com         |
+| room.ceo         | available | $9.99     | $146.98       | medium         | low    | 4      | namecheap        |
+| food.place       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| clinic.shop      | premium   | $625      | —             | high           | low    | 6      | name.com         |
+| room.cheap       | available | $5.98     | $49.98        | medium         | low    | 4      | namecheap        |
+| food.rodeo       | resell    | —         | —             | high           | medium | 4      | Porkbun          |
+| nursed.tel       | premium   | $10.62    | $10.62        | low            | low    | 6      | namesilo         |
+| genes.diet       | available | $159.98   | —             | medium         | low    | 5      | namecheap        |
+| food.school      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| nurses.boston    | premium   | $242      | $21.24        | medium         | low    | 6      | namesilo         |
+| genes.healthcare | available | $91.99    | —             | medium         | low    | 5      | name.com         |
+| food.solutions   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| nurses.cv        | premium   | $80.33    | $8.85         | medium         | low    | 6      | namesilo         |
+| genes.hospital   | available | $71.98    | —             | medium         | low    | 5      | namecheap        |
+| food.taxi        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| nurses.email     | premium   | $242      | $242          | medium         | low    | 6      | namesilo         |
+| genes.solutions  | available | $5.99     | —             | medium         | low    | 5      | name.com         |
+| home.directory   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 174,564 live domains                       |
+| 1,000-row public sample | 175,437 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 389 high-demand names under $2,500         |
+| Basic exported fields   | 383 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
