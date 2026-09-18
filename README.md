@@ -1,10 +1,10 @@
-# One-Word Healthcare Domain Names Across 506 TLDs (78,263)
+# One-Word Healthcare Domain Names Across 506 TLDs (79,445)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-78%2C263%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-79%2C445%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,422 one-word domain names tied to healthcare, spanning 506 TLDs with a median ask near $727. Updated daily, it ranges from clinical and care-focused terms to insurance- and wellness-adjacent one-word names across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **78,263 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **79,445 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 78,263 domains · **Median ask:** $420.79 · **High-demand under $2,500:** 172
+**Public extract:** 1,000 rows · **Live catalog:** 79,445 domains · **Median ask:** $417.75 · **High-demand under $2,500:** 166
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/healthcare`
@@ -68,22 +68,22 @@ print(df.head())
 | brain.ryukyu       | available | $22.98    | —             | high           | medium | 5      | namecheap                |
 | health.theater     | resell    | $80.98    | —             | high           | medium | 6      | Sav.com, LLC             |
 | lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com                 |
-| center.ryukyu      | available | $22.98    | —             | high           | low    | 6      | namecheap                |
+| cells.enterprises  | available | $5.99     | —             | medium         | low    | 5      | name.com                 |
 | medical.co         | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC         |
 | care.inc           | premium   | $2,061.50 | $2,660        | medium         | low    | 4      | namesilo                 |
-| health.accountants | available | $43.99    | —             | high           | medium | 6      | name.com                 |
+| teeth.boats        | available | $1.99     | —             | medium         | low    | 5      | name.com                 |
 | medical.pics       | resell    | $1.99     | $45.99        | high           | low    | 7      | Dynadot LLC              |
 | home.bio           | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| health.archi       | available | $24.99    | —             | high           | medium | 6      | name.com                 |
+| center.ryukyu      | available | $22.98    | —             | high           | low    | 6      | namecheap                |
 | fit.today          | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.          |
 | nurse.mobile       | premium   | $375      | —             | medium         | low    | 5      | name.com                 |
-| health.audio       | available | $104.99   | $114.99       | high           | medium | 6      | namesilo                 |
+| health.accountants | available | $43.99    | —             | high           | medium | 6      | name.com                 |
 | lab.media          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
 | vigor.mobile       | premium   | $375      | —             | high           | low    | 5      | name.com                 |
-| health.auto        | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo                 |
+| health.archi       | available | $24.99    | —             | high           | medium | 6      | name.com                 |
 | tech.vc            | resell    | —         | —             | high           | medium | 4      | Dynadot Inc              |
 | health.accountant  | premium   | $455      | $65           | high           | medium | 6      | namecheap                |
-| health.blackfriday | available | $114.99   | $114.99       | high           | medium | 6      | namesilo                 |
+| health.audio       | available | $104.99   | $114.99       | high           | medium | 6      | namesilo                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 78,263 live domains                        |
+| 1,000-row public sample | 79,445 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 172 high-demand names under $2,500         |
+| Basic exported fields   | 166 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
