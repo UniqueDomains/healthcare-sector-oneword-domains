@@ -1,10 +1,10 @@
-# One-Word Healthcare Domain Names Across 506 TLDs (51,229)
+# One-Word Healthcare Domain Names Across 506 TLDs (45,192)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-51%2C229%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-45%2C192%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,422 one-word domain names tied to healthcare, spanning 506 TLDs with a median ask near $727. Updated daily, it ranges from clinical and care-focused terms to insurance- and wellness-adjacent one-word names across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **51,229 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **45,192 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 51,229 domains · **Median ask:** $435.26 · **High-demand under $2,500:** 123
+**Public extract:** 1,000 rows · **Live catalog:** 45,192 domains · **Median ask:** $426.60 · **High-demand under $2,500:** 89
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/healthcare`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| care.auto         | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                 |
-| fit.solar         | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43        |
-| care.attorney     | premium   | $260      | $260          | high           | low    | 4      | namecheap                |
-| care.car          | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                 |
-| care.ac           | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.          |
-| care.autos        | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap                |
-| care.cars         | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                 |
-| care.academy      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10        |
-| care.baby         | premium   | $650      | $65           | high           | low    | 4      | namecheap                |
-| care.ceo          | available | $19.99    | —             | high           | medium | 4      | name.com                 |
-| care.bio          | resell    | —         | —             | high           | low    | 4      | Vautron Rechenzentrum AG |
-| care.beauty       | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap                |
-| care.construction | available | $15.99    | —             | high           | low    | 4      | name.com                 |
-| care.city         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc              |
-| care.blog         | premium   | $650      | $2,600        | high           | low    | 4      | namecheap                |
-| care.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com                 |
-| care.co           | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp.     |
-| care.build        | premium   | $650      | $650          | high           | low    | 4      | namecheap                |
-| care.country      | available | $2,450    | —             | high           | low    | 4      | namecheap                |
-| care.company      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------- |
+| care.deal        | premium   | $640      | $640          | high           | low    | 4      | namesilo                         |
+| care.accountants | available | $43.99    | —             | high           | low    | 4      | name.com                         |
+| care.beer        | resell    | $1.99     | —             | high           | low    | 4      | Dynadot Inc                      |
+| care.art         | premium   | $2,600    | $91           | high           | low    | 4      | namecheap                        |
+| care.actor       | available | $19.99    | —             | high           | low    | 4      | name.com                         |
+| care.golf        | resell    | $7.99     | —             | high           | low    | 4      | Dynadot Inc                      |
+| care.attorney    | premium   | $260      | $260          | high           | low    | 4      | namecheap                        |
+| care.archi       | available | $24.99    | —             | high           | low    | 4      | name.com                         |
+| care.la          | resell    | $2,960.07 | —             | high           | low    | 4      | Internet Domain Service BS Corp. |
+| care.audio       | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap                        |
+| care.auto        | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                         |
+| care.rip         | resell    | $7.99     | —             | high           | low    | 4      | Dynadot Inc                      |
+| care.autos       | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap                        |
+| care.barcelona   | available | $38.98    | —             | high           | low    | 4      | namecheap                        |
+| care.ac          | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                  |
+| care.baby        | premium   | $650      | $65           | high           | low    | 4      | namecheap                        |
+| care.berlin      | available | $89.98    | —             | high           | low    | 4      | namecheap                        |
+| care.academy     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10                |
+| care.bar         | premium   | $1,462.50 | $2,925        | high           | low    | 4      | namecheap                        |
+| care.bingo       | available | $14.99    | —             | high           | low    | 4      | name.com                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 51,229 live domains                        |
+| 1,000-row public sample | 45,192 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 123 high-demand names under $2,500         |
+| Basic exported fields   | 89 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
