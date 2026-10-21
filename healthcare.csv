@@ -6,9 +6,14 @@ c73f012c-2b0a-4762-9d92-cb8fc3250e86,health.dentist,premium,2587.7,2587.7,high,m
 66b3b679-8dc2-4d9d-93bd-d76c8d989a6d,health.mom,premium,2660,2660,high,medium,6,namesilo,,,19/10/2026 01:13
 5df935bc-2a4a-4254-b88c-cfcaae9a3d80,health.yoga,resell,,,high,medium,6,"GoDaddy.com, LLC",26/08/2020 18:59,26/08/2027 18:59,19/10/2026 01:13
 c92de11d-fcba-41a9-bf35-a24215fb96ad,health.beauty,premium,2070.2,2070.2,high,medium,6,spaceship,,,19/10/2026 01:13
+358cf3e4-df1a-49ff-b3ef-9078d2aea4d0,health.homes,premium,2600,2600,high,medium,6,namecheap,,,19/10/2026 01:13
+f915adbe-616b-4c47-8f7c-dd6f80253d7d,health.restaurant,premium,102.67,102.67,high,medium,6,spaceship,,,19/10/2026 01:13
 984f0561-174c-4dd4-abf5-4a74cfe76a09,health.skin,premium,2070.2,2070.2,high,medium,6,spaceship,,,19/10/2026 01:13
+ade639f5-d7e8-4284-9350-2be9a5fd1cee,health.bingo,resell,,,high,medium,6,"Sav.com, LLC - 18",07/12/2025 15:15,07/12/2026 15:15,19/10/2026 01:13
 78159927-5e1f-4d6c-b69f-1c41437cb326,health.tickets,premium,1950,1950,high,medium,6,namecheap,,,19/10/2026 01:13
 8dd33731-5860-4e8b-a82e-049896452b3a,health.flights,premium,78.54,78.54,high,medium,6,namesilo,,,19/10/2026 01:13
+cdd19494-0e15-40ac-adb4-571c8e00912e,health.spot,premium,650,650,high,medium,6,namecheap,,,19/10/2026 01:13
+1d261b06-faad-4641-bef9-69e3c0b7668e,health.best,resell,,,high,medium,6,"Spaceship, Inc.",25/02/2020 15:46,25/02/2027 23:59,19/10/2026 01:13
 31aa0caa-52e3-4814-9353-73ce1220f127,health.live,resell,,,high,medium,6,"GoDaddy.com, LLC",22/04/2016 04:04,22/04/2027 04:04,19/10/2026 01:13
 1b2a6f8f-8af2-446a-84d2-a35e898d151f,health.hair,premium,2070.2,2070.2,high,medium,6,spaceship,,,19/10/2026 01:13
 749bf534-5af9-4ab8-9cc7-128a77f61ca4,health.site,premium,6900,6900,high,medium,6,namesilo,,,19/10/2026 01:13
@@ -198,6 +203,7 @@ fbac01ff-6847-464a-b2df-56ecf1ddd187,health.music,available,,,high,medium,6,,,,1
 5688b8ba-4c68-4b46-b8a8-9b0e84f8dc8f,health.boston,available,,,high,medium,6,,,,19/10/2026 09:20
 a4b27113-1971-4720-a0c8-dba4f9dbe697,health.srl,premium,54.28,30.68,high,medium,6,namesilo,,,19/10/2026 01:13
 2e75f965-f11f-4d1c-901b-cd8186492ceb,health.coffee,resell,,,high,medium,6,Edomains LLC,25/06/2023 15:15,25/06/2027 15:15,19/10/2026 01:13
+1d629ff4-f4f4-4062-8604-49f624fad1fe,medical.living,premium,640,640,high,low,7,namesilo,,,12/10/2026 00:30
 93caf68b-411d-48ef-b3b6-867c2420e702,health.auction,premium,1107,1107,high,medium,6,namesilo,,,19/10/2026 01:13
 17fbbe64-8a51-4727-9b53-7454c1464e51,medicine.doctor,premium,854,854,high,low,8,namesilo,,,19/10/2026 09:32
 3e2f04c8-c331-444c-b5a8-f58b8178d866,health.work,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,16/10/2017 12:12,16/10/2035 12:12,19/10/2026 01:13
@@ -229,9 +235,13 @@ c62a6b2f-8881-46f5-9a40-570ff0d08011,health.cars,available,1863.2,2064.2,high,me
 b0f9cd2b-746d-47af-881d-729081fe485b,health.beer,resell,,,high,medium,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),10/09/2018 12:46,10/09/2027 12:46,19/10/2026 01:13
 857c860d-279b-4225-b1de-f424a467667d,health.hockey,available,59.99,59.99,high,medium,6,namesilo,,,19/10/2026 01:13
 eba92e5e-1ec4-43d9-9fb5-392ee6e25f76,health.bar,available,,,high,medium,6,,,,19/10/2026 09:20
+82082d2d-b43e-481d-9f1a-86ed66ca758c,medical.services,premium,800.5,828.2,high,low,7,unstoppable,,,12/10/2026 00:30
+9f051c65-de84-4706-a71c-4b2604599d6c,medical.sarl,premium,68.51,68.51,high,low,7,spaceship,,,12/10/2026 00:30
 e3dd113c-5e93-4a1c-ad8f-aae4c4070f45,health.phd,premium,1344.67,1344.67,high,medium,6,spaceship,,,19/10/2026 01:13
 bcdde617-b634-4cc0-bb3a-763a840fae65,health.kaufen,available,5.99,26.99,high,medium,6,namesilo,,,19/10/2026 01:13
 1cd48d71-440e-478d-9e66-b5f5257ec7f2,medical.rehab,available,,,high,low,7,,,,17/10/2026 09:34
+d6e2a670-c538-4bac-a608-04d9756fa98e,medical.condos,premium,118.8,118.8,high,low,7,namesilo,,,12/10/2026 00:30
+2b4167ac-880d-4008-8a0c-2106c1aa1c7d,medical.sbs,premium,155.45,310.7,high,low,7,spaceship,,,12/10/2026 00:30
 2fa6b74b-aec8-4c4c-b1d6-c0b040a34a63,health.fans,premium,640,640,high,medium,6,namesilo,,,19/10/2026 01:13
 6745bf18-f9a4-4d94-ab88-162dc75127b7,health.makeup,premium,2660,2660,high,medium,6,namesilo,,,19/10/2026 01:13
 8a101178-cdfa-4e69-929c-1392e8a89578,healthcare.surgery,premium,512,512,high,low,10,namesilo,,,19/10/2026 08:42
@@ -266,7 +276,7 @@ af3fcc66-c64c-4346-8e7a-5166fb2cbcea,medical.luxe,premium,512,17.7,high,low,7,na
 f4f01a04-fd29-436a-9275-51516a430969,medical.capital,premium,102.67,102.67,high,low,7,spaceship,,,12/10/2026 00:30
 99c4e1f1-f124-4e24-ae58-3baebf97a7dc,medical.futbol,available,7.49,7.49,high,low,7,namesilo,,,12/10/2026 00:30
 eb6e976c-529c-4e65-b9fb-5f580bcdaaab,health.domains,premium,242,242,high,medium,6,namesilo,,,19/10/2026 01:13
-9452d769-47f1-46ec-9fd7-18e719b742cf,medical.forum,premium,103.7,103.7,high,low,7,spaceship,,,19/10/2026 04:51
+9452d769-47f1-46ec-9fd7-18e719b742cf,medical.forum,premium,103.7,103.7,high,low,7,spaceship,,,20/10/2026 04:51
 42329bfb-0b7a-4e89-9e8c-1c88605ad098,medical.furniture,premium,109.53,218.86,high,low,7,porkbun,,,12/10/2026 00:30
 64a14c57-feec-4b3f-af2a-b9ac289bcd9e,health.icu,resell,,,high,medium,6,"Spaceship, Inc.",31/05/2018 01:23,31/05/2027 23:59,19/10/2026 01:13
 80a3c63f-6b9d-4340-85f8-17fa657a7e7e,medical.vote,available,20.9,72.65,high,low,7,spaceship,,,12/10/2026 00:30
@@ -290,6 +300,7 @@ bed18929-b0df-4cab-a792-31f2cd5893ad,health.college,premium,13800,13800,high,med
 3c04140e-aaab-4e3c-ba38-322f2c0ebba9,medical.archi,available,13.39,92.17,high,low,7,porkbun,,,12/10/2026 00:30
 cc70f323-fe73-4ab5-a983-adb88885c351,health.wedding,premium,52,32.5,high,medium,6,namecheap,,,19/10/2026 01:13
 70ed58a9-43e3-4639-b331-0cfd8c301ad8,health.jewelry,available,51.95,51.95,high,medium,6,spaceship,,,19/10/2026 01:13
+1fe73432-2f4f-4b51-b5bc-3dcb3d1916c2,medical.tips,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/08/2026 15:15,10/08/2027 15:15,20/10/2026 09:26
 6e1900bb-18a0-40a1-9f3e-4fac5a8ffce9,health.gratis,premium,414.2,414.2,high,medium,6,spaceship,,,19/10/2026 01:13
 cd3f84df-a0c1-41a2-b0ef-58baee75d041,medical.mba,available,10.55,31.25,high,low,7,spaceship,,,12/10/2026 00:30
 668bd9f6-c3cb-43ed-8920-c07a1689edd3,health.wiki,premium,1762.25,1762.25,high,medium,6,namesilo,,,19/10/2026 01:13
@@ -355,6 +366,7 @@ f17a28b9-8e91-484f-afde-9740ced68c38,medical.diet,available,100.2,100.2,high,low
 d89c3e0a-5d5c-4baa-a7de-37d0c549f37f,health.shop,premium,5175.2,5175.2,high,medium,6,spaceship,,,19/10/2026 01:13
 6f5b8c08-3c62-4b66-a9cd-4f7b9621827c,health.soccer,available,20.2,20.2,high,medium,6,cloudflare,,,19/10/2026 01:13
 839264f8-bfea-4a3b-be88-557f86cba7ca,health.cooking,premium,242,29.5,high,medium,6,namesilo,,,19/10/2026 01:13
+a139e4ed-55ac-43e1-bad5-3378956ac014,healthcare.soy,premium,299.2,328.9,high,low,10,unstoppable,,,19/10/2026 08:42
 1bea89a8-3945-48c6-9b79-4e987b5f640f,health.autos,premium,2660,2660,high,medium,6,namesilo,,,19/10/2026 01:13
 12811cf7-ddef-488d-af02-9af6cb1370e8,health.holdings,resell,,,high,medium,6,Dynadot Inc,11/07/2023 15:15,11/07/2027 15:15,19/10/2026 01:13
 330dd6a2-46a5-42a7-991f-6e1ab775ecc0,health.dance,premium,108.9,108.9,high,medium,6,dynadot,,,19/10/2026 01:13
@@ -375,39 +387,43 @@ add02dc2-85a5-47a2-9ee6-f39afe82c748,health.shoes,premium,512,512,high,medium,6,
 9b419d75-0f89-47ab-b2ce-ee6997f2aa25,health.viajes,available,35.18,35.18,high,medium,6,spaceship,,,19/10/2026 01:13
 cfaa8652-ad78-495f-994e-e489e47f540d,medical.degree,premium,1035.2,1035.2,high,low,7,spaceship,,,12/10/2026 00:30
 24fb7825-e6e5-4bac-ada0-1b2e88b3222e,health.red,resell,,,high,medium,6,Squarespace Domains II LLC,10/07/2019 10:10,10/07/2028 10:10,19/10/2026 01:13
+729a2cb0-0ad1-4fee-957f-e40698725399,healthcare.tires,available,72.44,72.44,high,low,10,spaceship,,,19/10/2026 08:42
 2081891b-f819-4622-afdd-dd9f892e54a5,medical.wine,available,9.99,59.99,high,low,7,namesilo,,,12/10/2026 00:30
+8ef15bfb-efa7-4965-8b99-85057f43f92b,healthcare.press,premium,258.95,517.7,high,low,10,spaceship,,,19/10/2026 08:42
 078469a4-4122-415c-bdd8-5c35ec246ae2,medical.moe,premium,104,15.6,high,low,7,namecheap,,,12/10/2026 00:30
 44bcf6cd-1c76-4307-86e7-158a308621b5,medical.gay,premium,116,116,high,low,7,namesilo,,,12/10/2026 00:30
 a7b7af93-4a35-4d87-85db-c6f976a8e58d,health.photos,available,15.99,29.99,high,medium,6,namesilo,,,19/10/2026 01:13
 ac58e497-01dc-4a99-b963-8fec6ea1d52d,medical.news,premium,517.7,1035.2,high,low,7,spaceship,,,12/10/2026 00:30
 665d044b-e309-466a-8114-c7fc165b742f,medical.company,premium,260,260,high,low,7,namecheap,,,12/10/2026 00:30
+50498947-be43-4225-91eb-867159f1fa69,healthcare.careers,available,,,high,low,10,,,,19/10/2026 09:20
 e9b4c666-4600-4e86-a17e-73cdfbbf6c0b,healthcare.ltda,premium,56.64,33.04,high,low,10,namesilo,,,19/10/2026 08:42
+30c40dc4-22fe-4f61-9317-ef3a13ec9b37,healthcare.jewelry,available,50.2,50.2,high,low,10,cloudflare,,,19/10/2026 08:42
 d02eda73-185c-423f-beb1-969388d30829,healthcare.dentist,premium,512,512,high,low,10,namesilo,,,19/10/2026 08:42
+bdc7e7ac-838d-4183-9b79-6cf89211eda8,healthcare.rent,resell,,,high,low,10,"GoDaddy.com, LLC",24/08/2026 16:59,24/08/2027 23:59,19/10/2026 08:42
 749ae055-b8e2-4c69-9df3-24b73211674f,health.faith,premium,1300,130,high,medium,6,namecheap,,,19/10/2026 01:13
 abe68056-6a35-497a-958c-5fa913cceb88,medical.diy,premium,640,640,high,low,7,namesilo,,,12/10/2026 00:30
 7986cff1-4b3c-495c-91f0-24e84360d10f,hospital.surgery,premium,414.2,414.2,high,low,8,spaceship,,,19/10/2026 14:16
-358cf3e4-df1a-49ff-b3ef-9078d2aea4d0,health.homes,premium,2600,2600,high,medium,6,namecheap,,,19/10/2026 01:13
+7a11c596-fcce-4ab0-a778-b2c8a4d5d1e2,healthcare.locker,premium,318.46,8.8,high,low,10,namesilo,,,19/10/2026 08:42
+3415c4b6-5bb3-4aff-b9f3-09a324d781c0,healthcare.talk,premium,517.7,517.7,high,low,10,spaceship,,,19/10/2026 08:42
+2f23136a-f07d-4a4b-a33a-23cd2f6d6555,healthcare.cool,premium,440,440,high,low,10,dynadot,,,19/10/2026 08:42
 94d51709-c97c-4fb4-88e2-0aebc784052c,medical.qpon,premium,3450,23.54,high,low,7,namesilo,,,12/10/2026 00:30
 4af3b1ac-40a8-4926-b4af-ab20c6270ba3,health.world,resell,,,high,medium,6,Dynadot Inc,11/01/2015 16:00,11/01/2027 16:00,19/10/2026 01:13
 effd3192-4a62-4900-92d8-e5d40fda8423,healthcare.mba,available,10.55,31.25,high,low,10,spaceship,,,19/10/2026 08:42
-f915adbe-616b-4c47-8f7c-dd6f80253d7d,health.restaurant,premium,102.67,102.67,high,medium,6,spaceship,,,19/10/2026 01:13
+70136bff-82fc-46aa-9477-cd59e4410675,healthcare.trade,resell,,,high,low,10,"Spaceship, Inc.",31/07/2019 13:04,31/07/2027 13:04,19/10/2026 08:42
 ed4cb1e9-e57a-4835-9741-41ac39a00968,medical.shiksha,premium,621.2,621.2,high,low,7,spaceship,,,12/10/2026 00:30
 8399f376-829b-4a52-a38c-2faa6f25544f,healthcare.villas,premium,68.51,68.51,high,low,10,spaceship,,,19/10/2026 08:42
 ef2d3b72-6b4c-415c-a62e-3a868c3c940c,medicine.surgery,premium,242,242,high,low,8,namesilo,,,19/10/2026 09:32
 fe80ccbb-83ff-422a-a413-f809ab0284bc,medical.rest,premium,3105,3105,high,low,7,namesilo,,,12/10/2026 00:30
 df8570cf-68cd-431d-b5d2-7c09c50482c7,medical.lifestyle,premium,640,640,high,low,7,namesilo,,,12/10/2026 00:30
 7eba3256-a46a-48ea-b5ab-6bdeb58f4f0b,healthcare.florist,available,32.99,32.99,high,low,10,namesilo,,,19/10/2026 08:42
-ade639f5-d7e8-4284-9350-2be9a5fd1cee,health.bingo,resell,,,high,medium,6,"Sav.com, LLC - 18",07/12/2025 15:15,07/12/2026 15:15,19/10/2026 01:13
 a66b9ee4-7f1f-400f-bbbd-7e4913fbe621,medical.studio,premium,400.5,512,high,low,7,unstoppable,,,12/10/2026 00:30
 7bdf9d3a-92bb-4348-9949-ec9eac8472e7,healthcare.events,resell,,,high,low,10,"GoDaddy.com, LLC",15/01/2023 22:34,15/01/2027 22:34,19/10/2026 08:42
 3096d3ba-8f54-4cff-8df2-ad9d62bea6dc,healthcare.moi,available,21.4,21.4,high,low,10,dynadot,,,19/10/2026 08:42
 4bef1882-5c04-4d37-930b-7e1789eea8ff,healthcare.name,available,,,high,low,10,,,,19/10/2026 09:20
 a1768bc6-7a52-466d-a841-1dffa1b544d5,healthcare.luxe,premium,880,16.27,high,low,10,dynadot,,,19/10/2026 08:42
 e73199ab-ed24-45a3-aae2-bdbad2198dd8,healthcare.cruises,available,56.99,56.99,high,low,10,namesilo,,,19/10/2026 08:42
-cdd19494-0e15-40ac-adb4-571c8e00912e,health.spot,premium,650,650,high,medium,6,namecheap,,,19/10/2026 01:13
 4772a7f8-b683-4607-bb8b-4cb47c2a5553,medical.solar,available,51.95,51.95,high,low,7,spaceship,,,12/10/2026 00:30
 9f828083-260a-4f25-b4f1-dd3f0b477397,medical.video,premium,512,512,high,low,7,namesilo,,,12/10/2026 00:30
-1d261b06-faad-4641-bef9-69e3c0b7668e,health.best,resell,,,high,medium,6,"Spaceship, Inc.",25/02/2020 15:46,25/02/2027 23:59,19/10/2026 01:13
 6970a3ed-4eee-4071-91f8-eaecbd036b54,medical.pictures,premium,260,260,high,low,7,namecheap,,,12/10/2026 00:30
 06c4b069-e983-48d5-8df2-0d0c63d4491b,medical.vision,resell,,,high,low,7,"Sav.com, LLC",03/02/2023 01:41,03/02/2027 01:41,12/10/2026 00:30
 61f4a3c1-cb6d-4de2-afd0-88352bc27e9b,healthcare.limo,available,43.67,43.67,high,low,10,spaceship,,,19/10/2026 08:42
@@ -424,10 +440,12 @@ f81b1c29-4dd3-4d95-817a-3c5392d3aab2,medicine.life,resell,,,high,low,8,Xin Net T
 a4a681f7-f3ad-46fe-9043-f38d98455e25,healthcare.boo,premium,516.67,516.67,high,low,10,spaceship,,,19/10/2026 08:42
 33fc901b-d22d-4f6f-be1e-27eb3e7054d4,medical.airforce,available,103.99,103.99,high,low,7,namesilo,,,12/10/2026 00:30
 f13ad4ac-71b1-42a1-b14f-c83237de642c,medical.management,resell,,,high,low,7,Dynadot Inc,07/01/2023 15:15,07/01/2027 15:15,12/10/2026 00:30
+e5ca4cd2-e962-4a56-8b91-a694fb45a68a,medicine.berlin,available,,,high,low,8,,,,20/10/2026 09:26
 669d403c-6ad6-4457-9e25-abf0840197d3,medical.observer,premium,1040,1040,high,low,7,namecheap,,,12/10/2026 00:30
 d04cbc6f-b4f3-4f02-8048-31fbe200a2b5,medical.fm,available,88.99,88.99,high,low,7,namesilo,,,12/10/2026 00:30
 5a33141f-0726-463b-9427-d3e767650694,medical.vip,resell,,,high,low,7,Go France Domains Inc,23/01/2021 00:11,23/01/2027 00:11,12/10/2026 00:30
 6dae5be3-13e7-49ad-9a6b-5f232e456996,healthcare.condos,premium,118.8,118.8,high,low,10,namesilo,,,19/10/2026 08:42
+58fcb1e9-5eb9-4ff1-8cf8-5318e63ee0d7,medicine.run,resell,,,high,low,8,Dynadot Inc,02/09/2026 17:00,02/09/2027 17:00,19/10/2026 09:32
 ef13121c-7c15-4347-ab13-7b73c0c82c10,medical.spot,premium,103.7,103.7,high,low,7,spaceship,,,12/10/2026 00:30
 4ad5a09e-60aa-4140-b763-3356908fee78,medical.webcam,premium,110,27.5,high,low,7,dynadot,,,12/10/2026 00:30
 35daf859-8767-4a3e-8ccf-b06680ce8564,healthcare.church,resell,,,high,low,10,"GoDaddy.com, LLC",11/02/2023 06:51,11/02/2027 06:51,19/10/2026 08:42
@@ -443,15 +461,22 @@ af98a278-a361-414e-8854-d44a10738c33,medicine.men,premium,448,53.92,high,low,8,n
 00f7c208-42b9-486c-8f28-fb4876533765,medical.hiphop,available,21.11,21.11,high,low,7,porkbun,,,12/10/2026 00:30
 1c4f6d10-ce7d-4319-b555-d656dd793035,healthcare.schule,available,34.99,34.99,high,low,10,namesilo,,,19/10/2026 08:42
 430e1b34-389f-45db-b935-7ba5be26154f,healthcare.restaurant,available,20,51.95,high,low,10,unstoppable,,,19/10/2026 08:42
+f8e33436-f82e-46df-9ea6-811342f2d1da,medicine.viajes,available,99.99,99.99,high,low,8,namesilo,,,19/10/2026 09:32
 80523460-6324-402c-a28f-cd02da509241,healthcare.mov,premium,59.2,64.93,high,low,10,unstoppable,,,19/10/2026 08:42
 58a297ca-e538-497e-9869-8102d5e3429e,healthcare.pizza,available,10.92,60.14,high,low,10,dynadot,,,19/10/2026 08:42
 8f823431-adae-438f-a8a2-bc852d6d3268,healthcare.clinic,resell,,,high,low,10,"Spaceship, Inc.",26/08/2015 16:00,26/08/2027 16:00,19/10/2026 08:42
 547a2905-73cc-42cc-bb17-eb46903da301,medical.study,premium,1107,1107,high,low,7,namesilo,,,12/10/2026 00:30
+b30ac80a-b409-4e97-857b-26a091b6e9ce,medicine.engineering,available,50.2,50.2,high,low,8,cloudflare,,,19/10/2026 09:32
+6862cccc-e14f-4303-9486-b941146578a0,medicine.rich,available,94.99,1999,high,low,8,namesilo,,,19/10/2026 09:32
 cad6537f-41d1-432f-b001-f9032b7949e4,medicine.dentist,premium,512,512,high,low,8,namesilo,,,19/10/2026 09:32
+47ffe91d-96e9-441e-8608-2d1a633cf13a,medicine.menu,available,,,high,low,8,,,,20/10/2026 09:26
+766d2d3a-720b-4ce1-91e0-9f5a9f41a778,medicine.accountants,available,23.76,106.15,high,low,8,dynadot,,,19/10/2026 09:32
+0f41eb6d-bc97-4e5a-90bc-ad442b992a90,medicine.wiki,premium,258.95,258.95,high,low,8,spaceship,,,19/10/2026 09:32
 e7d3a788-3d06-48c2-bf78-e8862bc61700,medical.glass,available,66.56,66.56,high,low,7,dynadot,,,12/10/2026 00:30
 0e8a148a-d136-4b41-acac-7d02a5eda660,healthcare.pics,resell,,,high,low,10,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59,19/10/2026 08:42
 2094464f-4ec7-4433-b095-9faebcf2ae33,medical.tienda,available,47.81,47.81,high,low,7,spaceship,,,12/10/2026 00:30
 a4b21694-3723-4970-afbb-f13df3e589e7,medical.photo,premium,110,110,high,low,7,dynadot,,,12/10/2026 00:30
+b3e36a46-7c11-4da8-b3f4-6a4613a02395,healthcare.blue,resell,,,high,low,10,"Spaceship, Inc.",19/10/2021 14:30,19/10/2027 14:30,20/10/2026 05:23
 7b508518-79f1-4108-b82e-6cc9f11331b7,medicine.gay,premium,53.92,53.92,high,low,8,namesilo,,,19/10/2026 09:32
 e2a0f41d-a259-4cbc-ba90-2109314135ba,medical.osaka,available,,,high,low,7,,,,17/10/2026 09:34
 33572c42-ee5d-4c12-8357-f8dc426ee301,healthcare.fail,premium,85.8,85.8,high,low,10,namecheap,,,19/10/2026 08:42
@@ -459,6 +484,7 @@ e2a0f41d-a259-4cbc-ba90-2109314135ba,medical.osaka,available,,,high,low,7,,,,17/
 88fdd082-509c-483b-85b0-0d362b65e49e,medical.cheap,premium,242,242,high,low,7,namesilo,,,12/10/2026 00:30
 523dfde7-41fc-4364-bd73-58b9d12171d6,healthcare.stream,resell,,,high,low,10,"Spaceship, Inc.",28/04/2026 01:45,28/04/2027 01:45,19/10/2026 08:42
 e29a4d9f-676b-4f00-b33a-6ebe6f01fe96,healthcare.bingo,available,41.2,41.2,high,low,10,cloudflare,,,19/10/2026 08:42
+8acaedf7-b093-441d-89a4-81638a9d52ae,medicine.my,resell,,,high,low,8,Porkbun LLC,01/08/2024 08:42,01/08/2027 08:42,19/10/2026 09:32
 ac835f6f-48c1-4079-aa1d-0ecfced48dad,medical.blackfriday,available,103.7,103.7,high,low,7,spaceship,,,12/10/2026 00:30
 ac55f306-73c4-4932-a64b-b1a40dd17a2f,healthcare.computer,premium,99.5,102.67,high,low,10,unstoppable,,,19/10/2026 08:42
 dec58886-07e8-4866-98b2-2377bc8faacc,healthcare.vacations,premium,207.2,207.2,high,low,10,spaceship,,,19/10/2026 08:42
@@ -472,6 +498,7 @@ e71915fa-ef55-4bf0-be29-c59417be371c,medicine.rehab,premium,1100,1100,high,low,8
 c451b6df-fb1f-4fdc-8d44-8b96b8165cf8,healthcare.sexy,available,2675.22,2675.22,high,low,10,dynadot,,,19/10/2026 08:42
 96bf7da5-2d54-4f5e-a684-5f8deebc49cf,medical.bargains,premium,54.36,108.6,high,low,7,porkbun,,,12/10/2026 00:30
 ddf3f53e-fd75-4711-a75a-7a9ec51f7735,healthcare.actor,available,16.99,44.49,high,low,10,namesilo,,,19/10/2026 08:42
+5214df37-def4-4923-ba1c-4bcf18e85380,medicine.property,available,,,high,low,8,,,,20/10/2026 09:26
 4ae9a1f5-cff3-4af9-8ba4-3e2354923ff0,medical.sh,resell,59.99,99,high,low,7,Dynadot Inc,27/06/2026 08:36,27/06/2027 08:36,12/10/2026 00:30
 298baad4-f07a-408e-82e8-9b0fbcd8ed6f,medical.style,premium,68.51,68.51,high,low,7,spaceship,,,12/10/2026 00:30
 2e4a9ce0-7f4c-426f-a7f6-063febf5c693,medical.cruises,available,43.2,43.2,high,low,7,cloudflare,,,12/10/2026 00:30
@@ -491,6 +518,7 @@ dd24a5f4-48de-4e97-bc03-b1c34189fc61,healthcare.car,available,1863.2,2064.2,high
 cbf95230-49bc-4056-aed4-aec1bea42c2e,medical.catering,premium,108.9,108.9,high,low,7,dynadot,,,12/10/2026 00:30
 619518d4-121e-4cbb-b480-2057b55002ad,medicine.ceo,premium,413.37,413.37,high,low,8,spaceship,,,19/10/2026 09:32
 958eec22-a8f7-42e8-93ed-c28d2119e029,medical.salon,premium,118.8,118.8,high,low,7,namesilo,,,12/10/2026 00:30
+0f74e332-ee42-41bc-a26f-0b1beb3a4933,hospital.hiv,available,,,high,low,8,,,,20/10/2026 09:20
 8f7e1054-dede-412d-903d-d47c31a373a2,healthcare.flowers,available,93.35,103.4,high,low,10,spaceship,,,19/10/2026 08:42
 13e893e4-175a-4e35-8a12-781bc8b38779,medicine.credit,available,80.2,80.2,high,low,8,cloudflare,,,19/10/2026 09:32
 4bc25824-901a-470c-aedd-671a1a7b4a6c,medicine.tours,available,10.99,61.99,high,low,8,namesilo,,,19/10/2026 09:32
@@ -499,6 +527,7 @@ d624fca7-ea68-4257-b737-68c8e55a106f,medicine.diamonds,available,43.67,43.67,hig
 47cc7a3a-45b1-46b1-bcaf-d7bdc34a6d56,medical.luxury,available,26.97,26.97,high,low,7,dynadot,,,12/10/2026 00:30
 afac10f0-9f23-49c5-b8ff-69521bdea5b2,medical.voto,available,10.55,55.93,high,low,7,spaceship,,,12/10/2026 00:30
 e70bf411-500c-4665-8d69-cf1ba7d5afd5,medicine.photo,premium,103.7,103.7,high,low,8,spaceship,,,19/10/2026 09:32
+3f546f93-7e7d-4abb-942e-2543e4b362f4,care.icu,premium,384,768,high,medium,4,namesilo,,,25/09/2026 13:42
 89d69ccf-9274-4043-a3d5-f01cf6feff43,medicine.law,resell,,,high,low,8,"GoDaddy.com, LLC",14/08/2020 08:58,14/08/2027 08:58,19/10/2026 09:32
 0b0dd3f7-2e68-4b70-9d35-733d9ce6a68a,healthcare.fishing,premium,41.6,26.08,high,low,10,spaceship,,,19/10/2026 08:42
 8f489d78-dca0-4f90-acbd-80e098b29e41,healthcare.love,premium,5520,5520,high,low,10,namesilo,,,19/10/2026 08:42
@@ -546,6 +575,7 @@ ebaf63a4-c9d2-4a63-b1cb-5bd549975c90,healthcare.irish,available,7.49,22.49,high,
 a9faa8bb-371f-441b-a53d-6a3070fdaf2a,healthcare.prof,premium,843.7,843.7,high,low,10,namecheap,,,19/10/2026 08:42
 31fdf6f7-378f-4538-80d6-7d50e1a95a57,healthcare.tattoo,available,1.75,31.25,high,low,10,spaceship,,,19/10/2026 08:42
 1c54ddae-ad42-44de-b287-1354951263d6,medicine.meme,premium,155.45,155.45,high,low,8,spaceship,,,19/10/2026 09:32
+5022b32f-025e-442a-9ddb-52e470a9b4df,medicine.buzz,available,,,high,low,8,,,,20/10/2026 09:26
 3c368768-4c74-4903-aaef-2baccd0f7f1a,medicine.reisen,available,16.76,16.76,high,low,8,spaceship,,,19/10/2026 09:32
 e49a496f-2ee1-4b40-bc6a-afcc6071a6fc,medicine.srl,premium,54.28,30.68,high,low,8,namesilo,,,19/10/2026 09:32
 7536f739-8837-4231-8c0a-ce6d4b2d653e,medical.kaufen,available,23.94,23.94,high,low,7,spaceship,,,12/10/2026 00:30
@@ -636,6 +666,7 @@ b662b9cc-dd3e-4dc1-8d04-a14879e5b738,medical.desi,available,19.98,22.98,high,low
 1c61c7c9-d6e8-4806-a7da-429cdcd306b7,healthcare.hamburg,available,69.98,73.98,high,low,10,namecheap,,,19/10/2026 08:42
 18fc04b5-e46c-4074-8248-6468e3bc3eb7,medical.esq,premium,843.7,843.7,high,low,7,namecheap,,,12/10/2026 00:30
 3ed04b44-23a7-4587-891f-1dc2d45c0ddb,medical.ninja,premium,207.2,207.2,high,low,7,spaceship,,,12/10/2026 00:30
+1089f3de-4d21-4c1d-98f1-df9ab2632809,care.futbol,available,7.49,17.99,high,medium,4,namesilo,,,25/09/2026 13:42
 f1ff5230-b067-4749-bec1-158fbee54f71,treatment.pet,available,10.81,21.11,high,low,9,porkbun,,,02/10/2026 12:28
 bcec103c-929f-4a3a-b41e-97d8985fccc3,medical.fyi,resell,,,high,low,7,Dynadot Inc,05/10/2023 01:18,05/10/2028 01:18,12/10/2026 00:30
 76d1872f-7e2d-4598-a090-586eeae34af2,medical.auto,available,1999.99,2199,high,low,7,namesilo,,,12/10/2026 00:30
@@ -655,11 +686,14 @@ d21fcf3f-dce9-4370-922f-ef5514e6bb4a,medicine.rentals,available,10.99,44.49,high
 598f5348-b51d-4b5d-b2c3-51faf03769eb,medicine.soccer,available,30.48,32.98,high,low,8,namecheap,,,19/10/2026 09:32
 d1ec74ab-e6dd-4ec5-8a0d-6662e30de357,medicine.voto,available,26.5,86.98,high,low,8,unstoppable,,,19/10/2026 09:32
 30178843-2be1-40d4-8df0-c7d93a9b630a,medicine.rest,premium,1152,1152,high,low,8,namesilo,,,19/10/2026 09:32
+afe9b4f6-c3dc-436e-8db0-a777309a7ad1,care.nexus,premium,648.7,648.7,high,medium,4,namecheap,,,25/09/2026 13:42
+42fa59ca-92fd-4fd7-9521-7edb94a4e69c,care.ski,premium,118.8,118.8,high,medium,4,namesilo,,,25/09/2026 13:42
 3e25d8aa-e14f-47f2-8690-b974b785d707,medicine.condos,available,46.78,46.78,high,low,8,spaceship,,,19/10/2026 09:32
 c5e92270-22b7-4d14-bff4-bb58a72e4f93,medical.pizza,available,5.38,51.95,high,low,7,spaceship,,,12/10/2026 00:30
 3a438068-dcd3-4868-9226-95456f33c5b3,hospital.training,premium,242,242,high,low,8,namesilo,,,19/10/2026 14:16
 98f07fc2-7b44-483e-8637-591d14e33387,healthcare.recipes,premium,512,512,high,low,10,namesilo,,,19/10/2026 08:42
 c686ef41-0a31-4e95-9710-744344249dba,healthcare.page,premium,638.72,638.72,high,low,10,namesilo,,,19/10/2026 08:42
+0edcc18f-b779-4399-b66b-f742ed9fec02,hospital.theater,available,51.95,51.95,high,low,8,spaceship,,,19/10/2026 14:16
 162d0f2e-45fd-459c-a84a-cd10789cf98e,medicine.taxi,available,10.99,62.99,high,low,8,namesilo,,,19/10/2026 09:32
 9f267099-da5b-48e8-932a-d6b2aeca725f,medicine.ag,available,89.99,79.99,high,low,8,namesilo,,,19/10/2026 09:32
 fd25a015-db5a-49b3-815c-8c44d50f8d7c,medical.consulting,available,,,high,low,7,,,,17/10/2026 09:34
@@ -669,6 +703,8 @@ fd25a015-db5a-49b3-815c-8c44d50f8d7c,medical.consulting,available,,,high,low,7,,
 29e9bffe-5f6f-4b0d-89fa-fecae3df397e,care.family,premium,512,512,high,medium,4,namesilo,,,25/09/2026 13:42
 7fecdb89-f16f-47a2-97dc-b6d590038162,medicine.lgbt,available,11.98,100.98,high,low,8,namecheap,,,19/10/2026 09:32
 f6f5a4a0-b34f-4832-bcb3-dfeaa8bf653d,care.security,available,2070,2950,high,medium,4,namecheap,,,25/09/2026 13:42
+e5ca5d41-a3a2-4498-9cff-37c1f5f61e5b,care.channel,premium,648.7,648.7,high,medium,4,namecheap,,,25/09/2026 13:42
+ffbba701-795d-44aa-b1fe-4af88c203821,hospital.property,available,,,high,low,8,,,,20/10/2026 09:20
 323ef5d6-3830-43ed-be0e-7d6b76debdb9,medicine.fans,premium,51.95,103.7,high,low,8,spaceship,,,19/10/2026 09:32
 5484c175-45a4-4ca7-b827-cddd7ab1b3f4,hospital.university,premium,128.7,128.7,high,low,8,namecheap,,,19/10/2026 14:16
 f357c3c2-8c82-4ff8-821c-7c3d1b64dd04,healthcare.cv,premium,1042.76,7.76,high,low,10,spaceship,,,19/10/2026 08:42
@@ -694,18 +730,24 @@ cce21f05-da42-4ae3-bc30-7092644ce36c,healthcare.shiksha,premium,2660,2660,high,l
 1cd7c21a-8aba-479a-836c-f4670d374d09,healthcare.moda,available,33.32,33.32,high,low,10,spaceship,,,19/10/2026 08:42
 f72310e3-b7cd-4fb5-802d-b80780dea7d7,healthcare.community,premium,118.8,118.8,high,low,10,namesilo,,,19/10/2026 08:42
 94eb56a7-4d5b-4e7e-b05c-616d6a292ea8,healthcare.fitness,premium,242,242,high,low,10,namesilo,,,19/10/2026 08:42
+915a72cf-2823-4dde-96a5-0dbaba3c597d,hospital.systems,resell,,,high,low,8,"Key-Systems, LLC",19/03/2014 20:01,19/03/2027 20:01,19/10/2026 14:16
 cd466743-ad6d-402c-9fe3-6b67b7d0c856,medicine.cooking,available,32.49,32.49,high,low,8,namesilo,,,19/10/2026 09:32
 bfd56c93-1665-4441-a8fe-3864996441f1,healthcare.online,premium,34500,34500,high,low,10,namesilo,,,19/10/2026 08:42
 13fb9396-4b5b-4c14-9157-f6b82b1f9f4e,care.mov,premium,648.7,648.7,high,medium,4,namecheap,,,25/09/2026 13:42
 b469af43-ba0b-44d7-bd0e-f77fb72838fe,medicine.pink,premium,1107,1107,high,low,8,namesilo,,,19/10/2026 09:32
 fc5dd6ff-5dd9-4a5b-8c55-21b3e7afb651,care.gifts,resell,,,high,medium,4,"GoDaddy.com, LLC",09/01/2016 14:51,09/01/2027 14:51,26/09/2026 04:46
+8125eeb1-508d-44d0-b43f-77785dca019c,hospital.fund,premium,207.2,207.2,high,low,8,spaceship,,,19/10/2026 14:16
 8f4a71f9-5007-4c4d-b6e1-25b060f92c28,hospital.estate,available,30.2,30.2,high,low,8,cloudflare,,,19/10/2026 14:16
 6c1ee5b8-f27e-4d1a-9651-dd7557e20dbe,medicine.fishing,premium,41.6,26.08,high,low,8,spaceship,,,19/10/2026 09:32
 1bd79517-d9ba-4525-adec-46d41eb8b4af,medicine.sh,available,31.05,46.58,high,low,8,spaceship,,,19/10/2026 09:32
 446f776c-4940-424f-b1f2-b292b5eb0307,healthcare.forex,available,13.5,95.45,high,low,10,unstoppable,,,19/10/2026 08:42
 fbfa878f-ea07-4470-9dc6-2ebce09462f1,medicine.courses,premium,5175.2,5175.2,high,low,8,spaceship,,,19/10/2026 09:32
 33db14e0-53e5-497c-935a-48dcd4521a78,hospital.haus,available,10.55,27.11,high,low,8,spaceship,,,19/10/2026 14:16
+d6d58ce4-0961-43c7-96cf-402403c18ddd,hospital.supply,premium,68.51,68.51,high,low,8,spaceship,,,19/10/2026 14:16
 8697078d-866e-463a-8f30-7053a6d80291,medical.rocks,resell,,,high,low,7,"Sav.com, LLC - 36",01/04/2026 15:15,01/04/2027 15:15,12/10/2026 00:30
+136676db-602f-4940-8825-7fd953e194b8,hospital.sex,available,51.95,98.53,high,low,8,spaceship,,,19/10/2026 14:16
+215fe502-2933-4b13-92ba-824832857707,hospital.ltd,available,4.98,58.98,high,low,8,namecheap,,,19/10/2026 14:16
+02076cf9-b2ce-465d-bd53-97b95558b11d,hospital.gratis,available,18.2,18.2,high,low,8,cloudflare,,,19/10/2026 14:16
 df6cddd1-1fd4-4701-b712-973cc68ba12c,medicine.date,premium,103.7,26.08,high,low,8,spaceship,,,19/10/2026 09:32
 6790f497-7580-418a-8273-456ec0dd25fd,medicine.space,premium,5000.2,5500,high,low,8,unstoppable,,,19/10/2026 09:32
 52dc6d98-c4b8-41ad-9d00-d14d74cb0924,care.moda,available,41.99,41.99,high,medium,4,namesilo,,,25/09/2026 13:42
@@ -736,6 +778,7 @@ a0a91760-aa89-4269-aeaa-0527bf4a7f5e,medical.rip,available,23.49,23.49,high,low,
 47ac510a-4476-4bb1-be4e-72f56776dbf0,medical.business,resell,,,high,low,7,Dynadot Inc,07/08/2020 06:41,07/08/2027 06:41,12/10/2026 00:30
 9ef286ed-a71f-4f62-8997-1b69edf0b585,medicine.vin,available,46.2,46.2,high,low,8,cloudflare,,,19/10/2026 09:32
 4cfc9158-9573-40c9-91e4-a00bdaa5764c,care.holiday,available,64.99,64.99,high,medium,4,namesilo,,,25/09/2026 13:42
+1f6c2325-3b97-45ea-9856-9f86d499ba43,medicine.blue,available,,,high,low,8,,,,20/10/2026 09:26
 a678ee0c-ca15-4786-820f-77d54d148df8,hospital.school,available,28.2,28.2,high,low,8,cloudflare,,,19/10/2026 14:16
 a6e3bc1e-edaa-4fb8-9f9f-42bb2a51508b,care.ac,resell,,,high,medium,4,"Spaceship, Inc.",27/09/2012 16:51,27/09/2027 16:51,28/09/2026 04:46
 dc3991b4-b506-44a3-8317-306ae6a59c52,healthcare.click,resell,,,high,low,10,Porkbun LLC,25/11/2014 16:01,25/11/2027 16:01,19/10/2026 08:42
@@ -776,6 +819,7 @@ a0e2e23e-6f76-4182-af9e-47d376d24514,healthcare.poker,available,5.38,54.02,high,
 c3581d61-1108-4125-9de2-666c09dd1d42,hospital.xyz,premium,1035.2,1035.2,high,low,8,spaceship,,,19/10/2026 14:16
 3c586ae4-0a08-4b6a-9f8a-572e4c420d87,hospital.cool,premium,414.2,414.2,high,low,8,spaceship,,,19/10/2026 14:16
 1ea6ced9-3876-40ff-8ac5-eec66a25a096,care.hamburg,available,69.98,73.98,high,medium,4,namecheap,,,25/09/2026 13:42
+8035e0bd-4cb4-4854-b4a9-f52b573643ae,treatment.attorney,available,62.99,62.99,high,low,9,namesilo,,,02/10/2026 12:28
 d8d2b8e6-bda0-4fee-b102-1e06b4f30dc9,treatment.futbol,available,7.49,17.99,high,low,9,namesilo,,,02/10/2026 12:28
 86f2e58f-8311-407e-a9a4-53f669e2aac3,care.photos,available,15.99,29.99,high,medium,4,namesilo,,,25/09/2026 13:42
 4ac948ea-fd44-42e7-a31b-03d67e54eae9,medical.immobilien,available,37.99,37.99,high,low,7,namesilo,,,12/10/2026 00:30
@@ -789,6 +833,7 @@ c1b1965d-efc9-468c-82a1-ce4da54fb77e,medical.productions,premium,242,242,high,lo
 c3beeafb-533d-4ab9-8fec-eb784c8db8ff,medical.fish,premium,118.8,118.8,high,low,7,namesilo,,,12/10/2026 00:30
 b34616f9-c45e-4f75-a83b-349db85b45ff,medical.car,available,1999.99,2199,high,low,7,namesilo,,,12/10/2026 00:30
 3085cd43-5985-46ef-94d9-89bc36008409,healthcare.fashion,available,32.49,32.49,high,low,10,namesilo,,,19/10/2026 08:42
+b39c0260-0476-46fc-b12b-e83bccc292f1,treatment.taxi,available,48.2,48.2,high,low,9,cloudflare,,,02/10/2026 12:28
 29b96fa0-b0f6-4e0f-86a7-7d3496a37662,care.auto,available,1999.99,2199,high,medium,4,namesilo,,,25/09/2026 13:42
 5d2cb7ff-0582-4282-a167-3cb515365def,medical.property,available,,,high,low,7,,,,17/10/2026 09:34
 efe944ac-1dca-4034-97b3-3991330b156e,care.jewelry,available,64.99,64.99,high,medium,4,namesilo,,,25/09/2026 13:42
@@ -798,6 +843,7 @@ b6f8fb6a-7f56-4d91-b703-7fef409810d6,healthcare.charity,premium,242,242,high,low
 76d2160a-160b-43d2-b263-54a8b75ca5af,medical.tennis,available,51.95,51.95,high,low,7,spaceship,,,12/10/2026 00:30
 529ecfb6-09ac-4644-a5e2-b30bad726219,medical.college,premium,51750.2,51750.2,high,low,7,spaceship,,,12/10/2026 00:30
 6c4ddba5-652f-4dcf-acb1-4aade109c950,nurse.surgery,available,45.16,45.16,high,low,5,dynadot,,,29/09/2026 22:12
+25e2f5e4-aaa2-4d48-8b08-88c0c692d2b5,treatment.photos,available,7.96,24.01,high,low,9,spaceship,,,02/10/2026 12:28
 32fa3499-0fd2-46e4-b286-73377b9e0413,treatment.services,premium,400.5,512,high,low,9,unstoppable,,,02/10/2026 12:28
 8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,premium,830.72,830.72,high,medium,4,namesilo,,,25/09/2026 13:42
 031bb491-eea6-44af-8441-17d3598f186c,healthcare.football,available,20.9,20.9,high,low,10,spaceship,,,19/10/2026 08:42
@@ -806,10 +852,12 @@ b5d3999f-e758-4f9d-9952-7f28ed49a749,hospital.delivery,premium,102.67,102.67,hig
 786c7afa-5d3e-481f-86ba-513b23fd6a63,hospital.tickets,available,326.21,388.33,high,low,8,spaceship,,,19/10/2026 14:16
 09e0536f-7bb6-4c69-bdb7-882770f1727d,care.soy,premium,418.6,418.6,high,medium,4,namecheap,,,25/09/2026 13:42
 83a0cba5-fc30-4605-8a00-76e628a4a07d,medicine.boo,premium,249.2,257.92,high,low,8,unstoppable,,,19/10/2026 09:32
+872e2a4d-5cd3-4d92-8da9-ec12f57bc1b6,treatment.kim,available,12.99,23.49,high,low,9,namesilo,,,02/10/2026 12:28
 bf75ced8-2ada-4839-87e3-06d3a71d04da,medicine.security,available,1999.99,2049.99,high,low,8,namesilo,,,19/10/2026 09:32
 dfd315a9-4b8e-49d6-9fce-baeb2258a4c1,healthcare.webcam,available,10.53,10.53,high,low,10,spaceship,,,19/10/2026 08:42
 d1bb42a3-c2fb-4a2e-8041-1d7983c301e5,medical.fitness,resell,,,high,low,7,Dynadot Inc,23/01/2021 08:26,23/01/2027 08:26,12/10/2026 00:30
 5d550a6f-4b2c-4ab8-8c6a-db15eb7b04cb,treatment.food,available,4.35,31.25,high,low,9,spaceship,,,02/10/2026 12:28
+e683ae43-ee8a-4772-a575-782cddbc18c4,treatment.top,resell,,,high,low,9,成都西维数码科技有限公司,03/02/2016 18:01,03/02/2027 18:01,02/10/2026 12:28
 c28e70bd-4947-4227-9d52-cb3edd73faa3,healthcare.us,resell,,,high,low,10,"GoDaddy.com, LLC",24/04/2002 14:01,23/04/2028 23:59,19/10/2026 08:42
 3c1fcee0-07e8-4193-9a22-5e8efae9c4d2,medicine.cool,available,9.49,44.99,high,low,8,namesilo,,,19/10/2026 09:32
 946d75f4-c32d-418d-b669-db7dcd255206,treatment.bike,available,8.24,31.41,high,low,9,porkbun,,,02/10/2026 12:28
@@ -845,8 +893,10 @@ e08006a7-dc11-4443-bacd-16c98174e294,hospital.construction,available,31.25,31.25
 0cc5e724-7216-485e-8735-35820d7a7b3a,medicine.financial,available,23.99,58.99,high,low,8,namesilo,,,19/10/2026 09:32
 93982165-4c19-42d2-aad2-7ea81f6f0d70,medical.contractors,premium,118.8,118.8,high,low,7,namesilo,,,12/10/2026 00:30
 5ac33f1c-69ea-4cb3-b002-9fd421b1b464,healthcare.graphics,available,18.83,18.83,high,low,10,spaceship,,,19/10/2026 08:42
+209a827b-cf17-4f29-ac4c-d3a78897f344,hospital.name,available,,,high,low,8,,,,20/10/2026 09:20
 b2ca7346-df91-4d3c-a866-f92954156b2d,treatment.university,available,62.99,62.99,high,low,9,namesilo,,,02/10/2026 12:28
 73d24a8c-6650-4d36-8d03-9e6372a50a00,healthcare.health,premium,3450,71.4,high,low,10,namesilo,,,19/10/2026 08:42
+c4792f6c-a906-4acb-8a8d-ec03b8ed37dd,medicine.hiv,available,,,high,low,8,,,,20/10/2026 09:26
 e61fca86-c2e4-4393-b99c-d487c3c1ee83,hospital.plumbing,available,58.16,58.16,high,low,8,spaceship,,,19/10/2026 14:16
 81679b26-91f6-44b9-b678-c6796600bf38,care.page,premium,638.72,638.72,high,medium,4,namesilo,,,25/09/2026 13:42
 bed2a6de-dba5-4aea-a50f-a40ed6b6fab8,care.cfd,premium,384,768,high,medium,4,namesilo,,,25/09/2026 13:42
@@ -904,21 +954,25 @@ fc09ad99-0c26-44e7-8d65-f0c58003bfeb,doctor.men,available,,,high,low,6,,,,17/10/
 8ebc5af0-85e2-4ef5-a1dd-b4fdfde70759,treatment.kiwi,available,31.98,35.68,high,low,9,namecheap,,,02/10/2026 12:28
 a638f537-572d-495d-83bd-4f79a0309634,treatment.apartments,available,45.74,45.74,high,low,9,spaceship,,,02/10/2026 12:28
 9aba4835-6d2b-4b5c-ab5d-3988d7715664,medical.ong,premium,65,32.5,high,low,7,namecheap,,,12/10/2026 00:30
+42b464af-0334-4550-bcaa-51ee777f32ab,clinic.kids,premium,384,21.24,high,low,6,namesilo,,,29/09/2026 10:07
 61d8a71d-8300-4e4a-a5a9-1d53832e568c,care.party,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/08/2016 19:13,02/08/2028 23:59,26/09/2026 04:46
 0ed64a75-8ea8-45cc-8bb9-253727ae873a,healthcare.attorney,premium,1100,1100,high,low,10,dynadot,,,19/10/2026 08:42
 da0c6f77-6585-4e96-a179-2784cb87bc89,medical.auction,premium,414.2,414.2,high,low,7,spaceship,,,12/10/2026 00:30
 4af63c96-61ea-4120-9ff0-e1e70a06444a,care.diy,premium,640,640,high,medium,4,namesilo,,,25/09/2026 13:42
 98f7c3a6-f878-4781-97eb-00633aa6064c,treatment.green,available,10.55,64.37,high,low,9,spaceship,,,02/10/2026 12:28
+e41f810e-2869-4469-8742-2937a051fc5e,clinic.press,premium,258.95,517.7,high,low,6,spaceship,,,29/09/2026 10:07
 0950f972-a246-4c96-aad5-162c10e89e1f,medicine.sbs,premium,310.7,621.2,high,low,8,spaceship,,,19/10/2026 09:32
 4efcc5a9-89de-4cd4-9f23-f62d578e6130,treatment.click,resell,,,high,low,9,"Sav.com, LLC",31/08/2026 13:46,31/08/2027 13:46,02/10/2026 12:28
 08bf27aa-134e-4f29-ba68-92b7f5a7512e,care.kaufen,available,5.99,26.99,high,medium,4,namesilo,,,25/09/2026 13:42
 a80149ad-071d-4712-8807-19a5081b90b8,care.love,premium,13800,13800,high,medium,4,namesilo,,,25/09/2026 13:42
 14ff9946-8681-47a8-b95a-e505d7ad6973,medicine.cv,premium,1339.98,8.85,high,low,8,namesilo,,,19/10/2026 09:32
 0bed82a0-03ce-465a-b656-bb8c1cdcd2a5,medicine.cleaning,available,60.23,60.23,high,low,8,spaceship,,,19/10/2026 09:32
+9b11202d-2d15-46a4-8993-2e5344aa2176,doctor.buzz,available,,,high,low,6,,,,17/10/2026 09:07
 e1d12c01-827d-48d5-a181-00f9a57843d0,clinic.nexus,premium,249.2,,high,low,6,unstoppable,,,29/09/2026 10:07
 1865412d-72cf-44d6-bf15-ecb8922bb90c,hospital.dental,available,62.3,62.3,high,low,8,spaceship,,,19/10/2026 14:16
 733b898f-7dca-484f-9c2d-e0e996c4db30,healthcare.theater,available,65.99,65.99,high,low,10,namesilo,,,19/10/2026 08:42
 dd5dbd8a-efa1-4e7b-b724-5b3ae334a6e3,healthcare.industries,premium,414.2,414.2,high,low,10,spaceship,,,19/10/2026 08:42
+d1306eac-1d2f-42d9-84cf-a165b53f8fd8,doctor.archi,available,19.99,103.99,high,medium,6,namesilo,,,17/10/2026 05:40
 629d4372-dede-4b9c-8597-1895632607f9,healthcare.clothing,available,32.99,32.99,high,low,10,namesilo,,,19/10/2026 08:42
 bfc6be0a-66be-4e93-a026-35cd352c7c3e,doctor.sarl,available,5.38,5.38,high,medium,6,spaceship,,,17/10/2026 05:40
 d540a256-89ed-4f19-b4af-235e6a848071,medicine.cruises,available,56.99,56.99,high,low,8,namesilo,,,19/10/2026 09:32
@@ -927,6 +981,7 @@ c83cfec5-d2d5-4b49-baed-949d9e33add8,medicine.channel,premium,257.92,257.92,high
 ff411216-5fd8-44d4-98ca-86b2cae7c4f5,treatment.toys,available,13.14,51.95,high,low,9,spaceship,,,02/10/2026 12:28
 261b865a-de5e-4eb6-9f4a-f493d04545c7,healthcare.cricket,premium,455,65,high,low,10,namecheap,,,19/10/2026 08:42
 16f7fa55-b320-43ec-bee0-f0adb0ab05ea,hospital.team,premium,220,220,high,low,8,dynadot,,,19/10/2026 14:16
+c2cca0e3-feb7-4ac6-b9cf-b4c23c984837,hospital.blue,available,,,high,low,8,,,,20/10/2026 09:20
 2e296481-6665-4114-8450-47eb203cbf84,healthcare.news,available,,,high,low,10,,,,19/10/2026 09:20
 b9931feb-f352-405d-8014-52760de7c77b,treatment.adult,available,69.98,166.98,high,low,9,namecheap,,,02/10/2026 12:28
 8bca49cd-f320-41c5-9e11-11be00a3982c,medicine.blog,premium,640,2660,high,low,8,namesilo,,,19/10/2026 09:32
@@ -935,6 +990,7 @@ f52a0d33-ea4f-4fbd-a359-3c0d996a2f3a,clinic.dentist,premium,414.2,414.2,high,low
 5c4a166f-3dd4-4769-9ff3-f23678f57e6e,healthcare.vote,premium,828.2,828.2,high,low,10,spaceship,,,19/10/2026 08:42
 c8e27f5d-c243-4e55-af0f-b8cdd020c807,hospital.mom,premium,672.95,672.95,high,low,8,spaceship,,,19/10/2026 14:16
 fe7c36bc-f567-4430-96c0-943a55ab9f4e,medical.sex,available,69.98,154.98,high,low,7,namecheap,,,12/10/2026 00:30
+0f6c21a5-4fdd-430d-b104-746deb4654d9,clinic.jewelry,available,10.92,53.72,high,low,6,dynadot,,,29/09/2026 10:07
 d6cc8cfd-5b73-4eaf-b5b4-fab6214cd23b,care.wtf,premium,42.9,42.9,high,medium,4,namecheap,,,25/09/2026 13:42
 af8fe2d9-df56-495d-bde2-da1f9c7a932e,treatment.coffee,available,16,42.99,high,low,9,unstoppable,,,02/10/2026 12:28
 f2914de3-2124-40e7-b439-03764a54d5ef,doctor.reviews,available,,,high,low,6,,,,17/10/2026 09:07
@@ -943,59 +999,3 @@ f2914de3-2124-40e7-b439-03764a54d5ef,doctor.reviews,available,,,high,low,6,,,,17
 0b4fba45-816f-4ee5-a1ba-4d0ff389b65c,healthcare.site,premium,6900,6900,high,low,10,namesilo,,,19/10/2026 08:42
 041a5b25-348b-43ab-8fa0-6038a00f2a1a,hospital.futbol,available,5.38,13.66,high,low,8,spaceship,,,19/10/2026 14:16
 9d8d2ab5-4dad-4108-a64b-4bbf37501f18,care.observer,premium,854,854,high,medium,4,namesilo,,,25/09/2026 13:42
-c8febd37-cd83-4491-8125-2decde319711,diagnosis.hospital,available,45.74,45.74,high,low,9,spaceship,,,08/10/2026 14:12
-7cc14eba-29ca-40cb-b64b-4b1b678661f7,clinic.degree,available,52.99,52.99,high,low,6,namesilo,,,29/09/2026 10:07
-dda7d827-f0b2-45d1-9773-f906e809612d,medicine.kiwi,premium,193.7,193.7,high,low,8,namecheap,,,19/10/2026 09:32
-399e11b8-0031-4525-adf2-eb4b69f77cbd,wellness.coach,resell,,,high,medium,8,"Wild West Domains, LLC",08/03/2015 16:00,08/03/2027 16:00,18/10/2026 18:01
-248830a8-ef1c-47af-84fd-476967207105,treatment.sale,available,30.2,30.2,high,low,9,cloudflare,,,02/10/2026 12:28
-c43a0c26-5bd1-48d5-a449-cdffa6bda5ce,hospital.space,premium,1293.95,5175.2,high,low,8,spaceship,,,19/10/2026 14:16
-d5555570-95ad-4b8f-9018-90d6bb1c32b4,treatment.global,premium,4140.2,51.95,high,low,9,spaceship,,,02/10/2026 12:28
-9f1517bb-ef64-4fd5-954d-45fe96593718,medical.hiv,available,,,high,low,7,,,,17/10/2026 09:34
-e61317a2-dd50-4c31-a64a-5700044eabbe,treatment.college,available,45.2,45.2,high,low,9,cloudflare,,,02/10/2026 12:28
-e31849e1-5258-4035-b8a4-5f7b33bfa20b,medical.racing,premium,116,116,high,low,7,namesilo,,,12/10/2026 00:30
-c34b7c37-617d-415e-b18d-da88cca8402d,hospital.red,resell,,,high,low,8,"Spaceship, Inc.",04/01/2018 10:10,04/01/2027 10:10,19/10/2026 14:16
-a44cd729-ab15-4cea-a81c-59bdc186cb78,care.fail,premium,118.8,118.8,high,medium,4,namesilo,,,25/09/2026 13:42
-ddd4ddb2-7cd9-4e29-bfb0-a918a0c3ddc6,clinic.fail,premium,118.8,118.8,high,low,6,namesilo,,,29/09/2026 10:07
-83f93a60-2418-4be4-9ecb-b2421e21914e,medical.voting,available,1398,1448,high,low,7,namecheap,,,12/10/2026 00:30
-bb866bbb-ee46-4d9a-b009-6791fb6ede13,hospital.soccer,available,30.48,32.98,high,low,8,namecheap,,,19/10/2026 14:16
-5e7f87a8-0e80-4930-93f4-2088d316195b,hospital.club,premium,1035.2,15.73,high,low,8,spaceship,,,19/10/2026 14:16
-8cc531fb-7a8f-4e2b-a3e6-8ef1acf4bbfc,care.cars,available,1999.99,2199,high,medium,4,namesilo,,,25/09/2026 13:42
-b3bd8184-3d3d-49a0-8939-c0c7c6449e18,medicine.spot,premium,116,116,high,low,8,namesilo,,,19/10/2026 09:32
-ca8a0e43-50aa-4df7-b631-73e2e49589b3,medicine.maison,available,60.98,69.98,high,low,8,namecheap,,,19/10/2026 09:32
-136feb96-514c-4243-890f-202f66aeb0e3,hospital.llc,premium,640,640,high,low,8,namesilo,,,19/10/2026 14:16
-12a1a65d-6d6e-4d7c-b984-7ed0747d32b7,care.trading,premium,260,260,high,medium,4,namecheap,,,25/09/2026 13:42
-46c64be0-47fa-4ec3-b8d0-af09d6128cf5,healthcare.link,premium,3622.7,3622.7,high,low,10,spaceship,,,19/10/2026 08:42
-92578548-327e-44fc-99c9-48540b94e6c4,medical.exposed,premium,242,242,high,low,7,namesilo,,,12/10/2026 00:30
-a33a6e69-2803-4a10-9c3f-cf1a0578c5ff,clinic.vodka,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 10:07
-c23d65cb-38f8-49d8-aa16-afd8fa33b896,wellness.baby,resell,,,high,medium,8,Dynadot Inc,25/07/2026 00:13,25/07/2027 23:59,18/10/2026 18:01
-1d4638c0-8d87-401b-aa16-558156a791e6,hospital.pw,premium,2587.5,2587.5,high,low,8,spaceship,,,19/10/2026 14:16
-dbf26129-fce2-4cb1-83b3-0c7b5c40a8b8,healthcare.lawyer,premium,1035.2,1035.2,high,low,10,spaceship,,,19/10/2026 08:42
-48d17b3f-46d4-43a5-be1f-fdb40b56bede,clinic.tips,premium,414.2,414.2,high,low,6,spaceship,,,29/09/2026 10:07
-d628d1f9-951d-46a6-9164-507e33efed1a,hospital.art,premium,227.7,83.3,high,low,8,unstoppable,,,19/10/2026 14:16
-7179331b-b8e7-414b-a818-85f2668f6198,medicine.vacations,available,30.2,30.2,high,low,8,cloudflare,,,19/10/2026 09:32
-7fe96897-5ee3-4e21-8cd1-961edde982d3,doctor.limo,available,42.2,42.2,high,medium,6,cloudflare,,,17/10/2026 05:40
-442b9d54-d6e9-474e-a875-d065daf42d6c,care.reviews,resell,,,high,medium,4,Dynadot Inc,09/02/2026 17:00,09/02/2027 17:00,26/09/2026 04:46
-5d0ff80f-2c5c-49b7-bcb4-d3a9cce8a26b,healthcare.show,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",16/10/2018 02:48,16/10/2027 02:48,19/10/2026 08:42
-1eb28512-28df-4269-af73-09296c994b9c,clinic.beauty,premium,8280.2,8280.2,high,low,6,spaceship,,,29/09/2026 10:07
-524f1333-17ed-48ca-b760-7079620b08be,care.contact,resell,,,high,medium,4,"Sav.com, LLC",06/12/2020 16:59,06/12/2026 16:59,26/09/2026 04:46
-54feb245-6023-4f83-bff3-ffa2c49bb993,hospital.mobile,premium,310.7,310.7,high,low,8,spaceship,,,19/10/2026 14:16
-7944b5eb-f98f-48b3-b750-bec01545f414,healthcare.markets,premium,1000.5,1035.2,high,low,10,unstoppable,,,19/10/2026 08:42
-1f556ae4-2d0a-4927-a11c-cb9ddce9d791,medicine.holiday,available,5.57,53.72,high,low,8,dynadot,,,19/10/2026 09:32
-a8ebdc11-c985-4b87-b418-49d6c25e83bb,hospital.hosting,available,300.2,300.2,high,low,8,cloudflare,,,19/10/2026 14:16
-7ff13abc-0741-4dc0-9f73-ad59dbdecce4,hospital.casino,available,125.2,125.2,high,low,8,cloudflare,,,19/10/2026 14:16
-00039d73-35f0-409f-a956-8eefc6e65bb2,medical.free,premium,103.7,103.7,high,low,7,spaceship,,,12/10/2026 00:30
-0f711a42-baf5-4bed-9547-942177d1298b,healthcare.plumbing,available,72.99,72.99,high,low,10,namesilo,,,19/10/2026 08:42
-a2cc48a9-ac46-408d-9570-0257c23a3fec,healthcare.wiki,premium,275,275,high,low,10,dynadot,,,19/10/2026 08:42
-35552512-95e1-4b52-b45e-b732bc6fac3a,hospital.singles,available,9,27.11,high,low,8,unstoppable,,,19/10/2026 14:16
-b8fe0500-698a-4875-a63e-b1336c07d843,care.beauty,premium,2660,2660,high,medium,4,namesilo,,,25/09/2026 13:42
-55ea4a3b-fbac-4363-a678-8126bf3d8835,medicine.associates,premium,72.6,72.6,high,low,8,dynadot,,,19/10/2026 09:32
-639f9ccf-39ef-48ea-ba08-08e995faf806,doctor.watch,premium,400.5,414.2,high,medium,6,unstoppable,,,17/10/2026 05:40
-1b4e5f8a-c860-4df8-bd38-12652a4fea50,doctor.living,premium,2200,2200,high,medium,6,dynadot,,,17/10/2026 05:40
-2895e64a-c410-4a5f-9eed-c1e6d5a0e1a2,clinic.careers,premium,520,520,high,low,6,namecheap,,,29/09/2026 10:07
-31d93de1-65be-49bc-8e98-5b31cccec412,care.democrat,available,7.25,32.99,high,medium,4,namesilo,,,25/09/2026 13:42
-95bc3fcf-3e89-4ef2-9140-2d1473d3b9d6,treatment.photo,premium,109.69,109.69,high,low,9,porkbun,,,02/10/2026 12:28
-41f43f24-fff4-4e1e-8380-e512afee08c5,hospital.phd,premium,340.72,340.72,high,low,8,spaceship,,,19/10/2026 14:16
-ac309c28-9117-4081-bb5f-e9ff8d73045f,treatment.ac,available,34.99,47.99,high,low,9,namesilo,,,02/10/2026 12:28
-d1f940ab-d83b-4d51-9799-a2a0aff80208,healthcare.direct,premium,512,512,high,low,10,namesilo,,,19/10/2026 08:42
-a16b7c42-87db-4f87-88e5-32291d2f1e0b,doctor.observer,premium,854,854,high,medium,6,namesilo,,,17/10/2026 05:40
-472289e3-6888-401b-9f4b-d46fffb2c240,medicine.pro,resell,,,high,low,8,Porkbun LLC,05/04/2008 00:00,05/04/2027 00:00,19/10/2026 09:32
